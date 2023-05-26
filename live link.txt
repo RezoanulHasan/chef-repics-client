@@ -1,0 +1,5 @@
+livelink website:  https://working-firebase-64b24.web.app/
+livelink server:   https://y-teal-seven.vercel.app/
+
+client-git:  https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-RezoanulHasan
+ server-git:  https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-RezoanulHasan/tree/main
