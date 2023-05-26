@@ -7,7 +7,7 @@
 
 
 ## Live  link server
-https://y-teal-seven.vercel.app/
+https://github.com/RezoanulHasan/chef-repics-server
 
 Features:
 
