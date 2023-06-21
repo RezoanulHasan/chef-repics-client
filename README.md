@@ -33,4 +33,3 @@ Features:
 - Blog page route created to answer specific questions
 - Chef Recipe page is a private/protected page that does not redirect the user to the login page when reloaded
 - Lazy load applied to the chef picture
-- Button created on the blog page that generates a downloadable PDF.
